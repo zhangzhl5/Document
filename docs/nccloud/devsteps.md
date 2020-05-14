@@ -17,11 +17,9 @@ uapbs-->meta-->general_interface.bmf-->IBDObiect
 49070202P 审批
 2.单据动作脚本（NC端） (修改PUB_BILLACTION中的ActionType值，解决保存即提交的问题)
 ```
-![68db9a38f21480b0f2baca34c41f9752.png](en-resource://database/1818:1)
 ###### 三、编码对象注册，编码规则定义
 注意事项：
-要导出预制的规则，如modules\ipmfund\config\billcodepredata\billcodepredata文件抽取编码规则脚本，在编码规则定义节点导出，导出后的目录在moudels下的对应模块中，复制到工程的目录下.
-![daf1e3b11ad28c1f2c13f63a1877f986.png](en-resource://database/1820:0)
+要导出预制的规则，如modules\ipmfund\config\billcodepredata\billcodepredata文件抽取编码规则脚本，在编码规则定义节点导出，导出后的目录在moudels下的对应模块中，复制到工程的目录下
 ###### 四、应用注册，菜单注册（NCC轻量端）
 ```
 注册模板时有个问题，每个模板的聚合类需要在后台插入

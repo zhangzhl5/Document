@@ -1,1 +1,2 @@
-  * [NCC¿ª·¢²½Öè](./docs/nccloud/devsteps.md)
+* [NCCå¼€å‘](./docs/nccloud/info.md)
+  * [å¼€å‘æ­¥éª¤](./docs/nccloud/devsteps.md)
